@@ -1,5 +1,8 @@
 {
     "name": "toko-online-pjbl/project",
+    "description": "Toko Online PJBL",
+    "type": "project",
+    "require": {},
     "require-dev": {
         "phpunit/phpunit": "^11.5"
     },
